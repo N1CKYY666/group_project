@@ -1,0 +1,1 @@
+print("si 25 entre 5 es 5... Cuanto mide el sol?")
